@@ -2,7 +2,7 @@
 
 * I'm **SeoJeongchan**.
 * I'm studying *Computer Science Engineering* 
-and i'm junior in *CNU(Chungnam National University)*.
+and i'm in *CNU(Chungnam National University)*.
 * I'm interested in *Web and Application* these days.
 
 <!--
