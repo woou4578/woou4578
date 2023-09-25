@@ -1,9 +1,9 @@
-### Hi there 👋
 
-* I'm **SeoJeongchan**.
-* I'm studying *Computer Science Engineering* 
-and i'm in *CNU(Chungnam National University)*.
-* I'm interested in *Web and Application* these days.
+<h2 align="center">👋 Hi there, I'm SeoJeongchan</h2>
+<div align="center">
+    <p> I'm studying Computer Science Engineering in Chungnam National University. </p>
+    <p> I'm interested in FrontEnd (Web and Application). </p>
+</div>
 <h2 align="center">📚 Tech Stack 📚</h2>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -41,6 +41,10 @@ and i'm in *CNU(Chungnam National University)*.
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+</div>
+<br/><br/>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=woou4578&show_icons=true"><br><br>
 </div>
 
 <!--
