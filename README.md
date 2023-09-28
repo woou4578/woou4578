@@ -33,7 +33,8 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />   
-    
+    <br/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br/>
 <div align="center">
