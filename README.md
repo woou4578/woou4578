@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
     <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=OCaml&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 </div>
 <br/>
 <div align="center">
@@ -32,7 +33,9 @@
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />   
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" />   
+    <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white" />   
     <br/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
@@ -41,6 +44,7 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 </div>
 <br/><br/>
